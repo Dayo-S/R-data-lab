@@ -1,7 +1,3 @@
-Absolutely, Adedayo! Here's a polished and professional `README.md` draft that brings together all the R scripts you've developed for your DS210 coursework. It’s structured to highlight your skills, explain the logic behind each project, and make your repo portfolio-ready:
-
----
-
 # 📊 R Data Lab: DS210 Coursework Projects
 
 Welcome to **R Data Lab**, a curated collection of R scripts from the DS210 Systems Programming & Data Science course. This repository showcases hands-on assignments and exploratory projects using R for statistical modeling, simulation, and data visualization. Each script is designed to demonstrate core concepts in data science, with a focus on clarity, reproducibility, and professional coding practices.
