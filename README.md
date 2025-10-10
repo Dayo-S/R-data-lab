@@ -17,16 +17,6 @@ Estimates the expected value of a two-step random process using biased coin flip
 ---
 
 ### 2. `gender_based_survival.R`  
-**Topic:** Simulating Survival Rates by Gender  
-**Description:**  
-Models survival outcomes for randomly assigned genders using different probabilities:
-- Females: 80% survival rate  
-- Males: 60% survival rate  
-The simulation estimates average survival rates across multiple trials, illustrating how probabilistic models can reflect group-level differences.
-
----
-
-### 3. `hypothesis_test_survival.R`  
 **Topic:** Hypothesis Testing for Gender-Based Survival  
 **Description:**  
 Performs a simulation-based hypothesis test to evaluate whether the observed survival rate difference between females (66%) and males (17%) is statistically significant.  
@@ -59,7 +49,3 @@ Explores two datasets:
 - All scripts are autograder-tested and written with reproducibility in mind  
 - Code includes comments and summaries to support conceptual understanding  
 - Designed for educational use and portfolio presentation
-
----
-
-Let me know if you'd like help formatting this directly in your GitHub repo or want to add badges, links to datasets, or visuals. We can make this README pop even more.
