@@ -7,8 +7,8 @@ print(observed_diff)
 # 1 means they survived, 0 means they did not 
 sim_function <- function(){
   
-  female <- sample(c(1,0), 463, prob=c(0.5, 0.5), replace = TRUE) # output from the first flip
-  male <- sample(c(1,0), 854, prob=c(0.5, 0.5), replace = TRUE)  # output from the second flip  
+  female <- sample(c(1,0), 463, prob=c(0.5, 0.5), replace = TRUE) # output from female 
+  male <- sample(c(1,0), 854, prob=c(0.5, 0.5), replace = TRUE)  # output from male  
   difference <-  mean(female) - mean(male)
   return(difference)
 }
