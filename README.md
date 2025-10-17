@@ -51,8 +51,6 @@ Analyzes two datasets using summary statistics and visualizations:
 
 ---
 
-Let me know if you'd like help formatting the visuals or linking to rendered plots in your README too.
-
 ## 🛠 Tools & Libraries Used
 - `dplyr`, `tidyr`, `ggplot2` for data manipulation and visualization  
 - Base R functions for simulation and hypothesis testing  
