@@ -38,6 +38,21 @@ Explores two datasets:
 
 ---
 
+### 5. `numerical_project.R`  
+**Topic:** Heart Health Metrics & GDP Distribution  
+**Description:**  
+Analyzes two datasets using summary statistics and visualizations:
+- **Heart Disease (`heart.csv`)**:  
+  - Summary stats for age, cholesterol, sex, and max heart rate  
+  - Scatterplot of age vs. max heart rate  
+  - Boxplot comparing cholesterol levels by sex  
+- **Global GDP (`2020-2025.csv`)**:  
+  - Histogram of country GDP distribution in 2020  
+
+---
+
+Let me know if you'd like help formatting the visuals or linking to rendered plots in your README too.
+
 ## 🛠 Tools & Libraries Used
 - `dplyr`, `tidyr`, `ggplot2` for data manipulation and visualization  
 - Base R functions for simulation and hypothesis testing  
